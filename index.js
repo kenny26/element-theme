@@ -1,5 +1,5 @@
 var gulp = require('gulp')
-var series = require('run-sequence').use(gulp)
+var series = require('gulp4-run-sequence').use(gulp)
 var task = require('./lib/task')
 var vars = require('./lib/gen-vars')
 var config = require('./lib/config')
@@ -24,7 +24,7 @@ exports.init = function (filePath) {
 exports.watch = function (opts) {
   gulp.task('build', build(opts))
   exports.run(opts)
-  gulp.watch(opts.config || config.config, ['build'])
+  gulp.watch(opts.config || config.config, gulp.series('build'))
 }
 
 exports.run = function (opts, cb) {
