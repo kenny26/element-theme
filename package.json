@@ -44,18 +44,18 @@
     "element-theme-chalk": "*"
   },
   "dependencies": {
-    "autoprefixer": "^9.7.3",
-    "commander": "^3.0.2",
+    "autoprefixer": "^10.2.4",
+    "commander": "^7.1.0",
     "gulp": "^4.0.2",
     "gulp-cssmin": "^0.2.0",
     "gulp-nop": "0.0.3",
-    "gulp-postcss": "^8.0.0",
+    "gulp-postcss": "^9.0.0",
     "gulp-sass": "^4.0.2",
     "gulp4-run-sequence": "^1.0.0",
-    "ora": "^4.0.2"
+    "ora": "^5.3.0"
   },
   "devDependencies": {
     "element-theme-chalk": "^2.15.0",
-    "xo": "^0.25.3"
+    "xo": "^0.38.1"
   }
 }
