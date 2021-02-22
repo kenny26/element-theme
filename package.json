@@ -48,7 +48,7 @@
     "commander": "^7.1.0",
     "gulp": "^4.0.2",
     "gulp-clean-css": "^4.3.0",
-    "gulp-nop": "0.0.3",
+    "gulp-noop": "^1.0.1",
     "gulp-postcss": "^9.0.0",
     "gulp-sass": "^4.0.2",
     "gulp4-run-sequence": "^1.0.0",
