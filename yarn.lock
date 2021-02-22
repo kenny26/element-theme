@@ -1525,10 +1525,10 @@
   "resolved" "https://registry.npmjs.org/commander/-/commander-2.20.3.tgz"
   "version" "2.20.3"
 
-"commander@^7.1.0":
-  "integrity" "sha512-pRxBna3MJe6HKnBGsDyMv8ETbptw3axEdYHoqNh7gu5oDcew8fs0xnivZGm06Ogk8zGAJ9VX+OPEr2GXEQK4dg=="
-  "resolved" "https://registry.npmjs.org/commander/-/commander-7.1.0.tgz"
-  "version" "7.1.0"
+"commander@^3.0.2":
+  "integrity" "sha512-Gar0ASD4BDyKC4hl4DwHqDrmvjoxWKZigVnAbn5H1owvm4CxCPdb0HQDehwNYMJpla5+M2tPmPARzhtYuwpHow=="
+  "resolved" "https://registry.npmjs.org/commander/-/commander-3.0.2.tgz"
+  "version" "3.0.2"
 
 "commondir@^1.0.1":
   "integrity" "sha1-3dgA2gxmEnOTzKWVDqloo6rxJTs="
